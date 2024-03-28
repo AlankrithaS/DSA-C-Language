@@ -1,2 +1,4 @@
 # DSA-C-Language
-data structuresc
+<br>
+Data structures
+2nd Trimester
